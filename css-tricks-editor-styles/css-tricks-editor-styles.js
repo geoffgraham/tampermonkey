@@ -25,7 +25,7 @@
     addGlobalStyle(`
     .editor-styles-wrapper.editor-styles-wrapper {
     margin: auto;
-    max-width: 80ch;
+    max-width: 70ch;
     }
 
 `);
